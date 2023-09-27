@@ -1,6 +1,5 @@
 /*Rocket Launching Project By IOTE28 Ameya Mhatre
-			      IOTE23 Anisha Koratala
-			      IOTE12 Sandeep Gurram */
+			      IOTE23 Anisha Koratala */
 #include<stdlib.h>
 #include<conio.h>
 #include<graphics.h>
